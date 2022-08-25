@@ -7,4 +7,4 @@ In this project, we implement HTML, CSS, and JavaScript to create an interactive
 ### Future Outlook
 This project will most likely be revisited to try and implement a few more things such as trying to integrate some other facial features.
 
-To view this project directly, navigate to <a href="https://jibang92.github.io/Profile/eyeMovementExercise/index.html">Eye Movement Exercise</a>
+To view this project directly, click <a href="https://jibang92.github.io/Profile/eyeMovementExercise/index.html">HERE</a>
