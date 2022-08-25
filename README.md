@@ -11,7 +11,7 @@ Rather than using images to generate the eyes, we use CSS styles to create the s
 This project will most likely be revisited to try and implement a few more things such as trying to integrate some other facial features.
 <br>
 <br>
-<b>To view this project directly, click <a href="https://jibang92.github.io/Profile/eyeMovementExercise/index.html">HERE</a></b>
+<b> --> To view this project directly, click <a href="https://jibang92.github.io/Profile/eyeMovementExercise/index.html">HERE</a></b>
 <br>
 <br>
 <br>
