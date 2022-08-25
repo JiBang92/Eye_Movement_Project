@@ -2,7 +2,7 @@
 ## Week 8 Module
 
 ### Description
-In this project, we implement HTML, CSS, and JavaScript to create an interactive pair of eyes that follow a cursor's movement within the window.
+In this project, we implement HTML, CSS, and JavaScript to create an interactive pair of eyes that follow a cursor's movement within the window.<br>
 Rather than using images to generate the eyes, we use CSS styles to create the shapes that make the eyes.
 
 ### Future Outlook
